@@ -3,6 +3,7 @@
     package="com.asthetikgymclub.shoppingapp">
 
     <application
+        android:name=".MyApplication"
         android:allowBackup="true"
         android:label="Asthetik Gym Club"
         android:supportsRtl="true">
